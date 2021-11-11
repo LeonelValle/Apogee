@@ -1,0 +1,5 @@
+C:\Users\leonel.valle\source\repos\Apogee-SN\ChooseProject\obj\Debug\ChooseProject.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\ChooseProject\obj\Debug\ChooseProject.Form1.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\ChooseProject\obj\Debug\ChooseProject.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\ChooseProject\obj\Debug\ChooseProject.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\ChooseProject\obj\Debug\ChooseProject.csproj.CoreCompileInputs.cache

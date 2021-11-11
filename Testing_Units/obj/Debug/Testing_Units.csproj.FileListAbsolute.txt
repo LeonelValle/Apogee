@@ -1,0 +1,10 @@
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\bin\Debug\Testing_Units.exe.config
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\bin\Debug\Testing_Units.exe
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\bin\Debug\Testing_Units.pdb
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.Form1.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.exe
+C:\Users\leonel.valle\source\repos\Apogee-SN\Testing_Units\obj\Debug\Testing_Units.pdb
